@@ -2,7 +2,7 @@
 An analysis of Automatic Data Processing, Inc.'s (ADP) currency risk exposure, using multi-factor regression and CAPM-based return prediction, paired with a practical hedging strategy using USD Index futures, as part of FINS3616 International Business Finance course.
 
 ## Data
-- **Stocks:** ADP
+- **Stock:** ADP
 - **Period:** 2001–2023
 - **Source:** FactSet
 
