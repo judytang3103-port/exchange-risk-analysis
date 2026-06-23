@@ -2,7 +2,9 @@
 An analysis of Automatic Data Processing, Inc.'s (ADP) currency risk exposure, using multi-factor regression and CAPM-based return prediction, paired with a practical hedging strategy using USD Index futures, as part of FINS3616 International Business Finance course.
 
 ## Data
-
+- **Stocks:** ADP
+- **Period:** 2001–2023
+- **Source:** FactSet
 
 ## Methods
 - **Currency Beta Estimation** — multi-factor regression of ADP excess returns against market excess returns and DXY (USD Index) returns
